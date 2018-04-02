@@ -1,5 +1,5 @@
 public class AccountDML {
-    // ApexPages.StandardSetController must be instantiated
+    // ApexPages.StandardSetController must be instantiated updated for github commit
    
    public List<Account> AccountsOrigList {get;set;}
    public List<AccountWrapper> AccountsWrappersList {get;set;}
